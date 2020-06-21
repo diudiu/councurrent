@@ -1,0 +1,23 @@
+1. You may no know the singleton design pattern
+2. WaitSet in synchronized monitor
+3. Cpu & Cpu Cache & Main Memory & Data Bus & Cache Line
+4. The volatile key work in deep
+5. Observer to monitor the Thread lifecycle
+6. Single Threaded Execution design pattern (准确区分哪个是共享资源，他们在竞争什么)
+7. Read-Write Lock design pattern
+8. Immutable design pattern
+9. Future Design Pattern
+
+
+9. Guarded Suspension design pattern
+Balking design pattern
+Producer-Consumer
+Thread-Per-Message Design Pattern
+Work Thread Design Pattern
+
+Two-Phase Termination Design Pattern
+The Thread-Specific Storage
+Active Object
+JMM Java Memory Model
+Java Class Loader
+
