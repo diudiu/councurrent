@@ -7,10 +7,11 @@
 7. Read-Write Lock design pattern
 8. Immutable design pattern
 9. Future Design Pattern
+10. Guarded Suspension design pattern
+
+Balking design pattern （不会用到线程间通信）
 
 
-9. Guarded Suspension design pattern
-Balking design pattern
 Producer-Consumer
 Thread-Per-Message Design Pattern
 Work Thread Design Pattern
