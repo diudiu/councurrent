@@ -8,17 +8,17 @@
 8. Immutable design pattern
 9. Future Design Pattern
 10. Guarded Suspension design pattern
+11. ThreadLocal
+12. The Thread-Specific Storage
+13. Balking design pattern （不会用到线程间通信）
+14. Producer-Consumer
+15. Count Down Design Pattern
+16. Thread-Per-Message Design Pattern (通常用于socket，一个连接请求一个线程)
+17. Two-Phase Termination Design Pattern
+18. Worker Thread Design Pattern
+19. Active Objects
+20. Java Class Loader
 
-Balking design pattern （不会用到线程间通信）
-
-
-Producer-Consumer
-Thread-Per-Message Design Pattern
-Work Thread Design Pattern
-
-Two-Phase Termination Design Pattern
-The Thread-Specific Storage
-Active Object
 JMM Java Memory Model
-Java Class Loader
+
 
